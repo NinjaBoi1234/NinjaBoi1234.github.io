@@ -1,0 +1,58 @@
+body {
+  color:azure;
+}
+
+body.portfolioBody {
+  color:black;
+  text-align: center;
+  background-color:aliceblue;
+}
+
+body.gameBody {
+  color:black;
+  text-align: center;
+  background-color:aliceblue;
+}
+
+span.homeTitle {
+font-size: 60px;
+}
+
+span.dividers {
+  font-size: 30px;
+}
+
+span.gameTitle {
+  font-size: 100px;
+}
+
+td.aboutMe {
+  text-align: center;
+  
+}
+
+td.numberText {
+  font-size: 50px;
+  text-align: center;
+}
+
+span.aboutMeTitle {
+  font-size: 40px;
+}
+
+span.contactTitle {
+  font-size: 30px;
+}
+
+a.pageLinks {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+a.studyLinks {
+  color:antiquewhite;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
